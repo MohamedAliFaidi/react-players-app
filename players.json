@@ -1,0 +1,36 @@
+{
+  "players": [
+    {
+      "name": "Neymar Jr.",
+      "team": "Paris Saint-Germain",
+      "nationality": "Brazilian",
+      "jerseyNumber": 10,
+      "age": 30,
+      "imageURL": "/neymar.jpg"
+    },
+    {
+      "name": "Sergio Ramos",
+      "team": "Paris Saint-Germain",
+      "nationality": "Spanish",
+      "jerseyNumber": 4,
+      "age": 36,
+      "imageURL": "/ramos.jpg"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Borussia Dortmund",
+      "nationality": "Norwegian",
+      "jerseyNumber": 9,
+      "age": 23,
+      "imageURL": "/halaand.webp"
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Liverpool",
+      "nationality": "Egyptian",
+      "jerseyNumber": 11,
+      "age": 29,
+      "imageURL": "/salah.jpg"
+    }
+  ]
+}
