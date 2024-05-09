@@ -24,9 +24,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        {this.state.players.length > 0 && (
-          <PlayersList players={this.state.players} />
-        )}
+        <PlayersList players={this.state.players} />
       </div>
     );
   }
